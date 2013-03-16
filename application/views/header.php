@@ -18,7 +18,7 @@
 		</nav>
 		<header id="datos">
 			<div class="personales">
-				<h1>Nuestro Videos</h1>
+				<h1>Nuestros Videos</h1>
 				<h2>Catalogo Online</h2>
 			</div>
 		</header>
