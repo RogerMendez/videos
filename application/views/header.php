@@ -11,7 +11,7 @@
 		<nav>
 			<ul>
 				<li><a href="#index"><img src="<?php echo base_url()?>images/logo.png"/></a></li>
-				<li><a href="#contacto">registrar video</a></li>
+				<li><?= anchor('video/new_video', 'Registrar Video')?></li>
 				<li><a href="#contacto">contacto</a></li>
 				<li><a href="#contacto">registrar Usuario</a></li>
 			</ul>

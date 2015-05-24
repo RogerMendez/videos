@@ -5,8 +5,10 @@ class Video extends CI_Controller {
 	{
 		parent::__construct();
 		$this->load->helper('form');
+		$this->load->helper('url');
         $this->load->library('form_validation');
 		$this->load->model('video_model');
+
 	}
 
 	function index()
